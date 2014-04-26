@@ -1,5 +1,5 @@
 // HRS.h : main header file for the HRS application
-//
+// this is a test about git
 
 #if !defined(AFX_HRS_H__0E9FD131_53B1_4E8B_87AC_205C7DE5907B__INCLUDED_)
 #define AFX_HRS_H__0E9FD131_53B1_4E8B_87AC_205C7DE5907B__INCLUDED_
